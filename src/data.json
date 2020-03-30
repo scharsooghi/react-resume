@@ -1,0 +1,98 @@
+{
+    "title": "Hello, I'm Sidika!",
+    "subtitle": "Frontend Developer | ISMS and ITIL Specialist | Theater Actress",
+    "links": {
+        "linkedin": "https://www.linkedin.com/in/sidika-charsooghi-44100a58/",
+        "github": "https://github.com/scharsooghi",
+        "twitter": "https://twitter.com/login?lang=sv"
+    },
+    "sections": [
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "As a web developer I put my efforts to solve the problems, who cares about details and sees things more precise. In each step, I always consider how the current state can be improved. Forvabout 10 years I have worked in IT and other environments and finally chosen web designing willingly and gladly."
+                },
+                {
+                    "type": "p",
+                    "content": "Summary:"
+                },
+                {
+                    "type": "p",
+                    "content": "Solving code problems, Proficient in HTML 5, CSS 3, Responsive Web Design and Media Query. Have excellent team work, time management and communication skills. Good knowledge of Adobe Photoshop and converting PSD to HTML, Knowledge of JavaScript (DOM, BOM, JSON and API, ES6)\\Basic knowledge of REACT, Have experience of sublime, Visual Studio Code and Dreamweaver"                  
+                },
+                {
+                    "type": "p",
+                    "content": "Soft Skills:"
+                },
+                {
+                    "type": "p",
+                    "content": "Troubleshooting and Problem Solving, Communication and Teamwork Skills, Time Managing and Prioritizing Tasks, Active Learning, Organizational Commitment, Concentration Skill"
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "fab fa-react",
+                        "title": "React"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "fab fa-js",
+                        "title": "Javascript"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "fab fa-html5",
+                        "title": "HTML5"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "fab fa-css3-alt",
+                        "title": "CSS3"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "fas fa-object-group",
+                        "title": "Photoshop"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "fas fa-project-diagram",
+                        "title": "MSProject"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": [
+        {
+            "title": "up",
+            "img": "fas fa-caret-up"
+        },
+        {
+            "title": "palette",
+            "img": "fas fa-palette"
+        },
+        {
+            "title": "profile",
+            "img": "images/me.png"
+        }
+
+    ]
+}

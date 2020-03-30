@@ -1,0 +1,44 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 40px;
+  background: rgba(255,255,255,0);
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+}
+
+div {
+  display: inline;
+
+}
+
+.navbar .leftNav {
+    float: left;
+    margin: 10px 0 0 10px;
+    
+  }
+
+.leftNav:hover {
+    cursor: pointer;
+  }
+  
+  .navbar .rightNav {
+    float: right;
+    margin: 10px 20px 0 0;
+    
+    
+  }
+
+.rightNav div {
+  margin: 0 10px 0 10px;
+}
+  
+.rightNav div:hover {
+    text-decoration: underline;
+    cursor: pointer;
+    
+  }
